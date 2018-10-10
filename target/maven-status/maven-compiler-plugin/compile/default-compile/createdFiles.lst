@@ -1,0 +1,5 @@
+com\sockethttp\ws\rest\service\RestClient.class
+com\sockethttp\ws\rest\service\ServiceLogin.class
+ClienteServidor\Cliente.class
+ClienteServidor\Servidor.class
+com\sockethttp\ws\rest\vo\VOUser.class
